@@ -10,6 +10,11 @@ Current Schematic: ![image](https://cdn.hackclub.com/019fc9f6-bb51-7d2d-b0cd-758
 ### Lapse Link: https://lapse.hackclub.com/timelapse/0mVoWRxlGfGC
 
 ## August 4th: Adding pull up resistorsa and EN reset button
-Went through the datasheet again and realized that certain pins needed to be pulled up along with the CHIP_EN being pulled high or low turning off the chip so I made that into a button
+Went through the datasheet again and realized that certain pins needed to be pulled up along with the CHIP_EN being pulled high or low turning off the chip so I made that into a button.
+Current Schematic:
 ![image](https://cdn.hackclub.com/019fce9e-e7fd-75f1-8205-ea0275a373bb/paste-1785877947883.png)
 ### Lapse Link: https://lapse.hackclub.com/timelapse/Z4B6Hk9UXLxQ
+
+## August 4th: Adding IO Headers to Schematic
+Started adding IO Headers to schematic and began using the global labels from looking at the datasheet.
+### Lapse Link: https://lapse.hackclub.com/timelapse/oeQ2Q57TR_s_
