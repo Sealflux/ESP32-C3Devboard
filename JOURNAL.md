@@ -18,3 +18,14 @@ Current Schematic:
 ## August 4th: Adding IO Headers to Schematic
 Started adding IO Headers to schematic and began using the global labels from looking at the datasheet.
 ### Lapse Link: https://lapse.hackclub.com/timelapse/oeQ2Q57TR_s_
+
+## August 5th-6th: Finishing the PCB hopefully
+I will begin wiring and assigning the global labels to the IO Headers. So I started doing that along with adding LED indicators to the Battery section.
+### Lapse Link: https://lapse.hackclub.com/timelapse/X9MPH5Bhr9M_
+
+## August 7th: Finishing the PCB hopefully without any delays
+I started by assigning footprints to the corresponding components. I began doing all of the traces and realized that flashing through USB wouldn't be the best idea since due to the limited space on the edge cuts. So if you want to flash the devboard, you must do so over wifi rather than USB. I finally fixed up all of the errors and now I just need to add silkscreen final touches and I can submit!
+Final Schematic:![image](https://cdn.hackclub.com/019fdd21-2753-7a5b-98aa-21d6a796d512/paste-1786121362317.png)
+Final PCB:![image](https://cdn.hackclub.com/019fdd21-852c-774c-b6b6-3f0114b938ce/paste-1786121388260.png)
+Final PCBA:![image](https://cdn.hackclub.com/019fdd22-1bd0-78ee-bd46-58197b9e40fe/paste-1786121425258.png)
+### Lapse Link: https://lapse.hackclub.com/timelapse/7NjPehKcUoc7
